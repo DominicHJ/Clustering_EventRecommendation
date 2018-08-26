@@ -16,7 +16,8 @@
 - timezone：时区       
 - count_N：活动描述出现第N个词的次数     
 - count_other：除了最常用的100个词之外的其余词出现的次数     
-注：后101列为词频：count_1, count_2, ..., count_100，count_other     
+
+注：后101列为词频：count_1, count_2, ..., count_100，count_other      
 ![](dataset _overview.png 'dataset _overview')      
 
 竞赛官网：https://www.kaggle.com/c/event-recommendation-engine-challenge/data   
